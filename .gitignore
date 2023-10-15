@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/SportEvent.API
+*/bin
+/SportEvent.API/appsettings.json
+*/obj
